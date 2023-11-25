@@ -1,0 +1,66 @@
+.home{
+    justify-content: center;
+    align-items: center;
+}
+.music-main{
+
+}
+audio{
+    width: 100%;
+    appearance: none;
+}
+audio::-webkit-media-controls-enclosure {
+    border-radius: 0;
+}
+
+
+/* xs */
+@media (min-width: 475px){
+    .container{
+        max-width: 475px;
+    }
+  }
+  
+  /* sm */
+  @media (min-width: 640px){
+    .container{
+        max-width: 640px;
+    }
+  }
+  
+  /* md */
+  @media (min-width: 768px){
+    .container{
+        max-width: 768px;
+    }
+  }
+  
+    /* lg */
+    @media (min-width: 896px){
+      .container{
+        max-width: 896px;
+      }
+    }
+  
+    /* xl */
+    @media (min-width: 1024px){
+      .container{
+          max-width: 1024px;
+      }
+    }
+    
+    /* 2xl */
+    @media (min-width: 1280px){
+      .container{
+          max-width: 1280px;
+      }
+    }
+    
+    /* 3xl */
+    @media (min-width: 1536px){
+      .container{
+          max-width: 1536px;
+      }
+    }
+    
+    

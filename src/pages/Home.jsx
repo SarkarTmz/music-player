@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/Home.css'
 
 import m1 from '../musics/Sushant KC - Sarangi (Official Music Video).mp3'
 
