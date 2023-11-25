@@ -18,11 +18,11 @@
 }
 html{
   scroll-behavior: smooth;
-  font-family: 'Lexend Deca', sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 body{
-  /* background-color: var(--clr-dark);
-  color: var(--clr-light); */
+  background-color: var(--clr-dark);
+  color: var(--clr-light);
 }
 /* img,
 picture,
@@ -60,10 +60,11 @@ strong{
 
 
 .container {
-  width: 60%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
+
 .section{
   margin-top: 5rem;
 }
@@ -89,6 +90,11 @@ strong{
 @media (min-width: 768px){
   .container{
       max-width: 768px;
+  }
+  .container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

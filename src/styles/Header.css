@@ -1,5 +1,7 @@
 .header{
-    background-color: aquamarine;
+    display: none;
+    color: black;
+    background: linear-gradient(150deg, rgb(178, 22, 217), #37b0e4 );
 }
 .header-wrapper{
     padding: 1rem 0;
@@ -9,9 +11,68 @@
 .header-wrapper ul{
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 1.4rem;
     text-decoration: none;
 }
 .header-wrapper ul a{
+    color: black;
+    font-size: 1rem;
+    font-weight: 600;
     text-decoration: none;
 }
+
+
+
+/* xs */
+@media (min-width: 475px){
+    .container{
+        max-width: 475px;
+    }
+  }
+  
+  /* sm */
+  @media (min-width: 640px){
+    .container{
+        max-width: 640px;
+    }
+  }
+  
+  /* md */
+  @media (min-width: 768px){
+    .container{
+        max-width: 768px;
+    }
+    .header{
+        display: block;
+    }
+  }
+  
+    /* lg */
+    @media (min-width: 896px){
+      .container{
+        max-width: 896px;
+      }
+    }
+  
+    /* xl */
+    @media (min-width: 1024px){
+      .container{
+          max-width: 1024px;
+      }
+    }
+    
+    /* 2xl */
+    @media (min-width: 1280px){
+      .container{
+          max-width: 1280px;
+      }
+    }
+    
+    /* 3xl */
+    @media (min-width: 1536px){
+      .container{
+          max-width: 1536px;
+      }
+    }
+    
+    

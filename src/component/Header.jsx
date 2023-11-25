@@ -7,7 +7,7 @@ const Header = () => {
    <>
         <div className="header">
             <div className="header-wrapper container">
-                <h3>Logo</h3>
+                <h3>I-Music</h3>
                 <ul>
                     <Link to="/">Home</Link>
                     <Link to="/trending">Trending</Link>
