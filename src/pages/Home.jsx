@@ -94,13 +94,6 @@ const Home = () => {
             Your browser does not support the audio tag.
           </audio>
           </div>
-          <div className="music">
-          <p>Sushant KC - Risaune Bhaye</p>
-           <audio controls>
-            <source src={m8} type="audio/mpeg" />
-            Your browser does not support the audio tag.
-          </audio>
-          </div>
         </div>
       
         </div>
