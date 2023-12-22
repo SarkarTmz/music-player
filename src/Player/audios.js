@@ -9,35 +9,35 @@ import m8 from '../musics/Sushant KC - Risaune Bhaye.mp3';
 
 const songsdata = [
   {
-    title: 'Sushant KC - Sarangi (Official Music Video).mp3',
+    title: 'Sushant KC - Sarangi (Official Music Video)',
     url: m1,
   },
   {
-    title: 'Ashutosh KC - MAYA.mp3',
+    title: 'Ashutosh KC - MAYA',
     url: m2,
   },
   {
-    title: 'Je Chhau Timi - Swoopna Suman x Samir Shrestha.mp3',
+    title: 'Je Chhau Timi - Swoopna Suman x Samir Shrestha',
     url: m3,
   },
   {
-    title: 'Drake - Forever',
+    title: 'Nachahe ko Hoina -The Edge Band',
     url: m4,
   },
   {
-    title: 'Linkin Park - In the End',
+    title: 'RANG - Nikhita Thapa X Brijesh Shrestha',
     url: m5,
   },
   {
-    title: 'Travis Scott - Stop Tryna Be God',
+    title: 'Sathi - Sushant KC',
     url: m6,
   },
   {
-    title: 'Drake - Forever',
+    title: 'Sushant KC - Muskurayera',
     url: m7,
   },
   {
-    title: 'Linkin Park - In the End',
+    title: 'Sushant KC - Risaune Bhaye',
     url: m8,
   },
 

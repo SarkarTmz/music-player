@@ -1,5 +1,5 @@
 .player{
-    width: 50%;
+    /* width: 50%; */
     padding: 1rem;
     border: 1px solid rgb(141, 141, 141);
     border-radius: 10px;
@@ -16,6 +16,7 @@
 
 .navigation{
     width: 100%;
+    margin: 1rem 0;
 }
 
 .navigation_wrapper{
@@ -28,7 +29,7 @@
 .seek_bar{
     width: 0;
     height: 100%;
-    background-color: rgb(24, 128, 3);
+    background: linear-gradient(150deg, rgb(178, 22, 217), #37b0e4 );
     border-radius: 30px;
 }
 .controls{
