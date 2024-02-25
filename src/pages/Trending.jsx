@@ -3,7 +3,7 @@ import React from 'react'
 const Trending = () => {
   return (
     <div className='container'>
-      trandinfg
+      tranding
     </div>
   )
 }
